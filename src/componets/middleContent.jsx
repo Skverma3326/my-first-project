@@ -11,6 +11,7 @@ const middleContent = () => {
     <div>Hello word !</div>
     <div>hello coders</div>
   <p>hello parveen </p>
+  <div>my name is </div>
 </div>
   );
 }
