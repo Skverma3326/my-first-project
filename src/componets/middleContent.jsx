@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const Page = () => {
+const middleContent = () => {
   // var [age,setAge]= useState(0);
   return (
 <div className=' w-[1140px] flex items-center justify-between bg-green-800 m-auto'>
@@ -8,14 +8,14 @@ const Page = () => {
      <div className=' h-[562px] w-[513px] bg-white'></div>
      </div>
      <div className='h-full w-1/2 bg-blue-800'></div>
-      
     <div>Hello word !</div>
-
+    <div>hello coders</div>
+  uuuu
 </div>
   );
 }
 
-export default Page;
+export default middleContent;
 // import React from 'react';
 
 // function Page() {
