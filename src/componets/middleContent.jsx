@@ -10,7 +10,7 @@ const middleContent = () => {
      <div className='h-full w-1/2 bg-blue-800'></div>
     <div>Hello word !</div>
     <div>hello coders</div>
-  uuuu
+  <p>hello parveen </p>
 </div>
   );
 }
